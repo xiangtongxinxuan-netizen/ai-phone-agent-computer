@@ -9,7 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@cloudflare/computer": "latest",
+    "@cloudflare/computer": "0.11.2",
     "just-bash": "^3.3.0"
   },
   "devDependencies": {
